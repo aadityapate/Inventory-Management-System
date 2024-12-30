@@ -725,6 +725,5 @@ class gui:
             self.db.commit()
         self.l10.config(text="Total={0}".format(total1))
 
-
 print("INVENTORY MANAGEMENT SYSTEM")
 g = gui()
