@@ -75,4 +75,3 @@ The **Inventory Management System** is a real-time, multi-store inventory tracki
 - **1. Aaryan Puri** 
 - **2. Aditya Pate** 
 - **3. Dhruv Gupta**
-
