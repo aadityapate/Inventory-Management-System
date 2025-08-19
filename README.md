@@ -22,7 +22,7 @@ The **Inventory Management System** is a real-time, multi-store inventory tracki
 ## Technologies Used
 - **Programming Language**: Python
 - **Database**: MySQL
-- **Libraries**: Tkinter, Pandas, NumPy
+- **Libraries**: Tkinter, Pandas, Matplotlib
 
 ## How It Works
 1. **Real-Time Inventory Management**: Track inventory as it moves between stores and is sold or restocked.
